@@ -8,7 +8,7 @@ import { map, delay } from 'rxjs/operators';
 })
 export class HeroesService {
 
-  private url = 'https://heroesapp-b0c3a.firebaseio.com';
+  private url = 'https://url.firebaseio.com';
 
   constructor(private http: HttpClient) { }
 

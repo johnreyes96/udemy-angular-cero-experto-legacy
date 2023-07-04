@@ -15,8 +15,8 @@ export class YoutubeService {
 
   constructor(public http: HttpClient) {
     this.youtubeUrl = 'https://www.googleapis.com/youtube/v3';
-    this.apikey = 'AIzaSyCJsZxwf5LpTa2W2TYsyb-DHUnUSgC6VFQ';
-    this.playlist = 'UUuaPTYj15JSkETGnEseaFFg';
+    this.apikey = 'apikey';
+    this.playlist = 'playlist';
     this.nextPageToken = '';
   }
 

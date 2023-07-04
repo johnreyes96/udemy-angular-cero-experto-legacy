@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyDttGSykMuB42j5a74W2K0FAMhf-Zax_1A',
-    authDomain: 'fir-fotos-325a4.firebaseapp.com',
-    databaseURL: 'https://fir-fotos-325a4.firebaseio.com',
-    projectId: 'fir-fotos-325a4',
-    storageBucket: 'fir-fotos-325a4.appspot.com',
-    messagingSenderId: '816058865497',
-    appId: '1:816058865497:web:8f7d8babe67382dd'
+    apiKey: 'apiKey',
+    authDomain: 'projectId.firebaseapp.com',
+    databaseURL: 'https://projectId.firebaseio.com',
+    projectId: 'projectId',
+    storageBucket: 'projectId.appspot.com',
+    messagingSenderId: 'messagingSenderId',
+    appId: 'appId'
   }
 };
 
